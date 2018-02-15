@@ -26,6 +26,6 @@
         android:layout_alignParentBottom="true"
         android:layout_toLeftOf="@id/button_main"
         android:hint="@string/enter_phone"
-        android:inputType="phone" />
+        android:inputType="number" />
 
 </RelativeLayout>
